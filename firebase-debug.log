@@ -1,0 +1,21 @@
+[debug] [2024-02-10T00:10:37.105Z] ----------------------------------------------------------------------
+[debug] [2024-02-10T00:10:37.106Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\chris.fitzgerald\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-02-10T00:10:37.107Z] CLI Version:   13.2.1
+[debug] [2024-02-10T00:10:37.107Z] Platform:      win32
+[debug] [2024-02-10T00:10:37.107Z] Node Version:  v18.18.0
+[debug] [2024-02-10T00:10:37.108Z] Time:          Fri Feb 09 2024 18:10:37 GMT-0600 (Central Standard Time)
+[debug] [2024-02-10T00:10:37.108Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-02-10T00:10:37.114Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-02-10T00:10:37.114Z] > authorizing via signed-in user (cfitzgerald8888@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\chris.fitzgerald\Code\websiteTest
+
