@@ -9,8 +9,7 @@
   <script src="https://unpkg.com/htmx.org@1.6.1"></script>
   <title>this is a thing that you know</title>
 </head>
-
-<body>
+<body class="bg-blue-200 text-center">
   <nav class="bg-gray-800 text-white p-4">
     <ul class="flex space-x-4">
     <li><a href="/">Home</a></li>
@@ -18,21 +17,12 @@
     <li><a href="/contact">Contact</a></li>
     </ul>
   </nav>
-  <header>
-    <h1 class="text-4xl font-bold text-left text-blue-600">do you understand?</h1>
-  </header>
-
-  <main>
-    <article>
-      <h2>on the internet chocolate i have looked</h2>
-      <p class="text-blue-500 font-bold text-lg">we understand a few things about hammers, most is quite a mystery </p>
-    </article>
-  </main>
-  <div class="flex justify-center items-center h-screen">
-   <textarea class="resize border rounded-md focus:outline-none focus:shadow-outline p-3"></textarea>
-  </div>
-  <footer>
-    <p>&copy; 2024 this is a thing that you know. All rights reserved.</p>
-  </footer>
+  <!-- backkgoundd color is red -->
+ <!-- hero section that is centered -->
+ <div> 
+  <h1 class="text-6xl font-bold text-blue-800">Welcome to the site</h1>
+  <p class="text-2xl">This is a site that you can visit</p>
+  <button hx-get="/about" class="bg-blue-500 text-white px-4 py-2 rounded mt-4">Learn More</button>
+</div>
 </body>
 </html>
